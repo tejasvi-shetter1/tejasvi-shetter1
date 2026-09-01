@@ -20,40 +20,6 @@ My current focus is on building reliable enterprise applications and intelligent
 
 📈 Interested in building scalable software systems and AI-driven business solutions
 
-🛠️ Tech Stack
-
-Languages
-
-
-
-
-
-Backend & Web
-
-
-
-
-
-
-
-Database
-
-
-
-AI / ML / Data
-
-
-
-
-
-
-
-DevOps & Cloud-Native
-
-
-
-
-
 🌟 Featured Projects
 
 🧪 Laboratory Information Management System (LIMS)
