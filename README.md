@@ -88,11 +88,11 @@ DevOps & Deployment
   <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge" alt="CI/CD"/>
 </p>
 
-🚀 Selected Projects
+🚀 Featured Projects
 
 🧪 Laboratory Information Management System (LIMS)
 
-Python · FastAPI · PostgreSQL · React · TypeScript · Docker · GitHub Actions
+Python · FastAPI · PostgreSQL · React · TypeScript · Docker · GitHub Actions · Azure colud
 
 A business-focused web application designed to digitize and streamline calibration-laboratory workflows that were previously handled through manual processes and Excel.
 
