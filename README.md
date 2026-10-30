@@ -11,8 +11,8 @@ Building scalable enterprise applications, data-driven solutions, and AI-powered
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/tejasvi-shetter1">
-[    <img src="https://img.shields.io/badge/GitHub-tejasvi--shetter1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-](https://img.shields.io/badge/just%20the%20message-8A2BE2)  </a>
+<img src="https://img.shields.io/badge/GitHub-tejasvi--shetter1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+ </a>
 </p>
 
 </div>
